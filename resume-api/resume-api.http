@@ -1,6 +1,6 @@
 @resume_api_HostAddress = http://localhost:5222
 
-GET {{resume_api_HostAddress}}/weatherforecast/
+GET {{resume_api_HostAddress}}/WorkHistories/
 Accept: application/json
 
 ###

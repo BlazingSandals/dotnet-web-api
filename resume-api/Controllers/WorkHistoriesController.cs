@@ -5,7 +5,7 @@ namespace resume_api.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class WorkHistoryController : ControllerBase
+public class WorkHistoriesController : ControllerBase
 {
     private static readonly List<WorkHistory> WorkHistories = [
         new WorkHistory{
